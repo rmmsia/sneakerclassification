@@ -1,4 +1,4 @@
-# sneakerclassification
+# Nike and Adidas Sneaker Classification
 CNN classification project to differentiate Nike and Adidas shoes, using TensorFlow and Keras.
 
 ### Dataset
